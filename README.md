@@ -1,5 +1,5 @@
 # tensorflow_tutorial
-텐서플로우 딥러닝을 공부합니다.
+텐서플로우 공부 with sungkim.(리스펙)
 
 
 <참고 도서>
